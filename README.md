@@ -1,4 +1,4 @@
-Overview
+Overview  
 This project delivers key business insights for an online retail store using cleaned transaction data and interactive Power BI visuals. The goal is to support executive decision-making with a focus on revenue, customer behavior, and market expansion.  
 
 Data Cleaning  
